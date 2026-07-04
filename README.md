@@ -99,7 +99,7 @@ This project is for **educational purposes only** and is **not affiliated with A
 
 **Karishma Rajput**
 
-- GitHub: https://github.com/your-github-username
+- GitHub: https://github.com/Pari219
 
 ---
 

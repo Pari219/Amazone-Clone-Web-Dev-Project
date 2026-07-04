@@ -53,18 +53,6 @@ Simply open the `index.html` file in your browser.
 
 ---
 
-## 📸 Preview
-
-Add a screenshot of your project here.
-
-```md
-![Amazon Clone Preview](images/preview.png)
-```
-
-Or upload your screenshot to GitHub and replace the path above.
-
----
-
 ## 🎯 Learning Objectives
 
 This project helped me practice:

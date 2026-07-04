@@ -44,7 +44,7 @@ Amazon-Clone/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/amazon-clone.git
+git clone https://github.com/Pari219/Amazone-Clone-Web-Dev-Project.git
 ```
 
 ### Open the Project
